@@ -1,0 +1,22 @@
+DROP VIEW IF EXISTS learndata;
+CREATE VIEW learndata AS SELECT connected,
+                                id_i,
+                                id_j,
+                                length_i,
+                                length_j,
+                                side_i,
+                                side_j,
+                                sw_width_i,
+                                sw_width_j,
+                                curbtype_i,
+                                curbtype_j,
+                                surftype_i,
+                                surftype_j,
+                                intersects,
+                                near_angle,
+                                near_distance,
+                                ST_AsText(ST_Transform(near_line, 4326)) AS near_line,
+                                4326 near_line_srid,
+                                bid_i,
+                                bid_j
+                           FROM nearby_sidewalks;
