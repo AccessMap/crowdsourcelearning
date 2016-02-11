@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="162.29268mm"
-   height="181.64468mm"
-   viewBox="0 0 1916.8427 2145.4129"
+   width="152.29268mm"
+   height="142.29355mm"
+   viewBox="0 0 1798.7325 1680.635"
    version="1.2"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -36,23 +36,23 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="842"
      id="namedview116"
      showgrid="false"
      inkscape:zoom="0.84414612"
-     inkscape:cx="323.04991"
-     inkscape:cy="350.30145"
+     inkscape:cx="84.992649"
+     inkscape:cy="228.58489"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     fit-margin-top="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10"
-     fit-margin-left="10" />
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5" />
   <desc
      id="desc4">Generated with Qt</desc>
   <defs
@@ -593,192 +593,192 @@
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="translate(-675.1552,-50.360727)" />
+     transform="translate(-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g12"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-675.1552,-50.360727)" />
+     transform="matrix(11.8081,0,0,11.8081,-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g18"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-675.1552,-50.360727)" />
+     transform="matrix(11.8081,0,0,11.8081,-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g20"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-675.1552,-50.360727)" />
+     transform="matrix(11.8081,0,0,11.8081,-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g22"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g24"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
      id="g26"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g28"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
      id="g30"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(0.999751,0,0,0.999751,281.2998,693.54827)" />
+     transform="matrix(0.999751,0,0,0.999751,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g32"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g34"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g36"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g38"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="translate(-675.1552,-50.360727)" />
+     transform="translate(-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g40"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g42"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,281.2998,693.54827)" />
+     transform="matrix(11.8081,0,0,11.8081,222.24551,634.49297)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g44"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g46"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g52"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g98"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g100"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g102"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g104"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="translate(-675.1552,-50.360727)" />
+     transform="translate(-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g106"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g108"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-391.7612,132.00727)" />
+     transform="matrix(11.8081,0,0,11.8081,-450.81549,72.951972)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g110"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-675.1552,-50.360727)" />
+     transform="matrix(11.8081,0,0,11.8081,-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g112"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="matrix(11.8081,0,0,11.8081,-675.1552,-50.360727)" />
+     transform="matrix(11.8081,0,0,11.8081,-734.20949,-109.41603)" />
   <g
      style="font-style:normal;font-weight:400;font-size:45.83330154px;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g114"
      font-style="normal"
      font-weight="400"
      font-size="45.8333"
-     transform="translate(-675.1552,-50.360727)" />
+     transform="translate(-734.20949,-109.41603)" />
   <g
      id="g5174"
-     transform="translate(-702.79658,-212.26028)">
+     transform="translate(-761.85087,-271.31558)">
     <g
        style="stroke:#626262;stroke-width:100.00015259;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g4234">
@@ -874,162 +874,105 @@
     </g>
   </g>
   <g
-     id="g4239"
-     style="stroke:#626262;stroke-width:100.00015259;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(-675.1552,-50.360727)">
+     id="g3495"
+     transform="translate(-59.054297,-405.7226)">
     <g
-       id="g4261"
-       style="stroke:#626262;stroke-width:100.00015259;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <path
-         transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:100.02506256;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         clip-path="url(#clipPath4184)"
-         d="m 2295.14,2161.53 -1116.7,-1158.05 2079.08,4.25"
-         id="polyline3443"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-      <path
-         transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:100.02506256;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         clip-path="url(#clipPath4180)"
-         d="m 150.756,1001.39 177.741,0.36 849.943,1.73"
-         id="polyline3449"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
+       transform="translate(-675.1552,-50.360727)"
+       style="stroke:#626262;stroke-width:100.00015259;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g4239">
+      <g
+         style="stroke:#626262;stroke-width:100.00015259;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g4261">
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="polyline3443"
+           d="m 2295.14,2161.53 -1116.7,-1158.05 2079.08,4.25"
+           clip-path="url(#clipPath4184)"
+           style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:100.02506256;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="polyline3449"
+           d="m 150.756,1001.39 177.741,0.36 849.943,1.73"
+           clip-path="url(#clipPath4180)"
+           style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:100.02506256;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)" />
+      </g>
     </g>
-  </g>
-  <path
-     sodipodi:nodetypes="ccc"
-     inkscape:connector-curvature="0"
-     id="polyline3465"
-     d="M 2447.06,2143.9 1465.43,1125.88 3235.1,1129.5"
-     clip-path="url(#clipPath4172)"
-     style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.3416821;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)" />
-  <polyline
-     vector-effect="none"
-     points="1175.69,881.653 1255.39,881.815 3235.1,885.861 "
-     id="polyline3473"
-     style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
-     clip-path="url(#clipPath4164)" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="polyline3475"
-     d="m 273.391,1123.46 822.119,1.67 31.34,0.06 21.92,22.74 960.37,995.97"
-     clip-path="url(#clipPath4160)"
-     style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)" />
-  <polyline
-     vector-effect="none"
-     points="227.783,879.726 1096,881.49 1175.69,881.653 "
-     id="polyline3477"
-     style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
-     clip-path="url(#clipPath4156)" />
-  <g
-     transform="translate(-675.15519,-50.360738)"
-     id="g4239-0"
-     style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1">
+    <path
+       transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
+       style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168243;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath4172)"
+       d="M 2447.06,2143.9 1465.43,1125.88 3235.1,1129.5"
+       id="polyline3465"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <polyline
+       clip-path="url(#clipPath4164)"
+       transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
+       style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="polyline3473"
+       points="1175.69,881.653 1255.39,881.815 3235.1,885.861 "
+       vector-effect="none" />
+    <path
+       transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
+       style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath4160)"
+       d="m 273.391,1123.46 822.119,1.67 31.34,0.06 21.92,22.74 960.37,995.97"
+       id="polyline3475"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <polyline
+       clip-path="url(#clipPath4156)"
+       transform="matrix(0.999751,0,0,0.999751,-157.21626,558.44247)"
+       style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.34168625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="polyline3477"
+       points="227.783,879.726 1096,881.49 1175.69,881.653 "
+       vector-effect="none" />
     <g
-       id="g4261-0"
-       style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1">
-      <path
-         transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:10.00250626;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:40.01002449, 20.00501224, 10.00250612, 20.00501224;stroke-dashoffset:0;stroke-opacity:1"
-         clip-path="url(#clipPath4184-6)"
-         d="m 2295.14,2161.53 -1116.7,-1158.05 2079.08,4.25"
-         id="polyline3443-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-      <path
-         transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:10.00250626;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:40.01002449, 20.00501224, 10.00250612, 20.00501224;stroke-dashoffset:0;stroke-opacity:1"
-         clip-path="url(#clipPath4180-8)"
-         d="m 150.756,1001.39 177.741,0.36 849.943,1.73"
-         id="polyline3449-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
+       style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1"
+       id="g4239-0"
+       transform="translate(-675.15519,-50.360738)">
+      <g
+         style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1"
+         id="g4261-0">
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="polyline3443-3"
+           d="m 2295.14,2161.53 -1116.7,-1158.05 2079.08,4.25"
+           clip-path="url(#clipPath4184-6)"
+           style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:10.00250626;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:40.01002449, 20.00501224, 10.00250612, 20.00501224;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="polyline3449-3"
+           d="m 150.756,1001.39 177.741,0.36 849.943,1.73"
+           clip-path="url(#clipPath4180-8)"
+           style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:10.00250626;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:40.01002449, 20.00501224, 10.00250612, 20.00501224;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)" />
+      </g>
     </g>
   </g>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:13.333354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
-     d="m 947.78642,838.28511 0,434.36469"
+     d="m 888.73213,712.56301 0,213.23345"
      id="path5205"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66674042px;line-height:125%;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="206.92906"
-     y="1091.6838"
+     x="147.87476"
+     y="862.84802"
      id="text5545"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5547"
-       x="206.92906"
-       y="1091.6838"
+       x="147.87476"
+       y="862.84802"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.00015259px;font-family:cmr9;-inkscape-font-specification:cmr9">Data Cleaning</tspan></text>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#b8b8b8;stroke-width:33.33338002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 1390.5148,939.18184 100.5193,0"
-     id="path5576"
-     inkscape:connector-curvature="0" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33345006px;line-height:125%;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="1522.6541"
-     y="966.64606"
-     id="text5545-7"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan5547-3"
-       x="1522.6541"
-       y="966.64606"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33345006px;font-family:cmr9;-inkscape-font-specification:cmr9;">sidewalk</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33345006px;line-height:125%;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="1524.3798"
-     y="1094.0222"
-     id="text5545-7-5"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan5547-3-9"
-       x="1524.3798"
-       y="1094.0222"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33345006px;font-family:cmr9;-inkscape-font-specification:cmr9;">street</tspan></text>
-  <g
-     id="g5705"
-     transform="translate(-737.14111,-195.4541)">
-    <g
-       id="g5728"
-       transform="translate(5.5844024,-80.973842)">
-      <path
-         transform="matrix(0.999751,0,0,0.999751,1780.0148,337.88456)"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:100.0250473;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         clip-path="url(#clipPath4180-0)"
-         d="m 328.497,1001.75 120.99699,1.73"
-         id="polyline3449-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <g
-         transform="translate(1262.0759,-270.91864)"
-         id="g4239-0-9"
-         style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1">
-        <g
-           id="g4261-0-8"
-           style="stroke:#fbfbfb;stroke-width:10.00001526;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:40.00006199, 20.00003099, 10.0000155, 20.00003099;stroke-dashoffset:0;stroke-opacity:1">
-          <path
-             transform="matrix(0.999751,0,0,0.999751,517.93894,608.8032)"
-             style="font-style:normal;font-weight:400;font-size:medium;font-family:Cantarell;fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:10.00250626;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:40.01002449, 20.00501224, 10.00250612, 20.00501224;stroke-dashoffset:0;stroke-opacity:1"
-             clip-path="url(#clipPath4180-8-4)"
-             d="m 328.497,1001.75 112.61829,1.73"
-             id="polyline3449-3-6"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cc" />
-        </g>
-      </g>
-    </g>
-  </g>
 </svg>
