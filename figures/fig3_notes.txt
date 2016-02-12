@@ -1,0 +1,15 @@
+Disconnected sidewalk 1
+    id: 8961
+    source: 15162
+    target: 15163
+
+Disconnected sidewalk along E of summit between olive and John:
+    id: 40227
+    source: 15144
+    target: 46742
+
+Disconnected node (dangle):
+    id: 15162
+
+Should connect to:
+    id: 15144
