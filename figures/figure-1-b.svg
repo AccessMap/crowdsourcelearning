@@ -43,7 +43,7 @@
      id="namedview116"
      showgrid="false"
      inkscape:zoom="1.1938029"
-     inkscape:cx="109.8614"
+     inkscape:cx="289.12047"
      inkscape:cy="174.38207"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -961,25 +961,7 @@
      rx="337.12933"
      ry="337.12936" />
   <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2670de;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.33335201, 13.33335201000000048;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 887.75874,627.57534 48.36827,53.83469"
-     id="path4485"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2670de;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.33335201, 13.33335201000000048;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 867.0277,630.53692 5.72907,184.24331"
-     id="path4485-0"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2670de;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.33335201, 13.33335201000000048;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 850.24543,643.37043 -63.37438,188.192"
-     id="path4485-0-0"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2670de;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.33335201, 13.33335201000000048;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#16d25c;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.33335201, 13.33335201000000048;stroke-dashoffset:0;stroke-opacity:1"
      d="M 840.37352,620.665 737.51145,828.60083"
      id="path4485-0-0-9"
      inkscape:connector-curvature="0"
@@ -992,42 +974,42 @@
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c51da7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="75.202522"
-     y="91.958893"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c51da7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="83.758804"
+     y="91.958954"
      id="text4618"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4620"
-       x="75.202522"
-       y="91.958893">1. Select a sidewalk endpoint</tspan></text>
+       x="83.758804"
+       y="91.958954">1. Select a sidewalk endpoint</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7432e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="75.50103"
-     y="188.90738"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7432e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="85.627296"
+     y="175.33951"
      id="text4618-7"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="75.50103"
-       y="188.90738"
-       id="tspan4640">2. Get other endpoints within 30 meters</tspan></text>
+       x="85.627296"
+       y="175.33951"
+       id="tspan4640">2. Get other endpoints within 30 feet</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2670de;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="76.563454"
-     y="285.8559"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2670de;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="86.652687"
+     y="258.72009"
      id="text4618-7-9"
      sodipodi:linespacing="125%"
      inkscape:transform-center-x="41.462079"
      inkscape:transform-center-y="-78.975388"><tspan
        sodipodi:role="line"
-       x="76.563454"
-       y="285.8559"
+       x="86.652687"
+       y="258.72009"
        id="tspan4640-2">3. Create features from </tspan><tspan
        sodipodi:role="line"
-       x="76.563454"
-       y="344.1893"
+       x="86.652687"
+       y="317.0535"
        id="tspan4662">geometric relationships</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#16d2af;stroke-width:13.33335209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1036,23 +1018,32 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#16d2af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="83.985252"
-     y="441.70746"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#16d2af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="86.652687"
+     y="401.00372"
      id="text4618-7-9-9"
      sodipodi:linespacing="125%"
      inkscape:transform-center-x="41.462079"
      inkscape:transform-center-y="-78.975388"><tspan
        sodipodi:role="line"
-       x="83.985252"
-       y="441.70746"
+       x="86.652687"
+       y="401.00372"
        id="tspan4662-1">4. Get connectivity </tspan><tspan
        sodipodi:role="line"
-       x="83.985252"
-       y="500.04089"
-       id="tspan4700">labels for machine</tspan><tspan
+       x="86.652687"
+       y="459.33713"
+       id="tspan4702">labels</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.66673279px;line-height:125%;font-family:cmr9;-inkscape-font-specification:cmr9;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#16d25c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="85.627296"
+     y="533.17023"
+     id="text4618-7-9-9-2"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="41.462079"
+     inkscape:transform-center-y="-78.975388"><tspan
        sodipodi:role="line"
-       x="83.985252"
-       y="558.37427"
-       id="tspan4702">learning</tspan></text>
+       x="85.627296"
+       y="533.17023"
+       id="tspan4702-1">5. Repeat</tspan></text>
 </svg>
